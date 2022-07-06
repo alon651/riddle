@@ -1,0 +1,16 @@
+body{
+    /* background-color: black; */
+    height: 300vh;
+}
+
+a{
+    color: black;
+    position: absolute;
+    top:195vh;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+    text-decoration: none;
+}
+
